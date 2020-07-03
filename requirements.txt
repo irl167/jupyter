@@ -2,4 +2,3 @@ ipyleaflet==0.13.0
 ipywidgets==7.5.1
 numpy==1.17.2
 matplotlib==3.1.1
-mpl_toolkits.basemap
